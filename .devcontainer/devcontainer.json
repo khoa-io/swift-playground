@@ -13,8 +13,7 @@
             "version": "os-provided",
             "ppa": "false"
 		},
-		"ghcr.io/swift-server-community/swift-devcontainer-features/swift-format:0": {},
-		"ghcr.io/devcontainers-community/features/llvm:3": {}
+		"ghcr.io/swift-server-community/swift-devcontainer-features/swift-format:0": {}
     },
     "runArgs": [
         "--cap-add=SYS_PTRACE",
